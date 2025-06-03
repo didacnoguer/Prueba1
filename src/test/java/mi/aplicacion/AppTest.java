@@ -1,6 +1,4 @@
-package mi.aplicacion
-
--aplicacion;
+package mi.aplicacion;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
